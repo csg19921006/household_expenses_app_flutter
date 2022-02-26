@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:household_expenses_app_flutter/domain/view_model/tab_page_view_model.dart';
 import 'package:household_expenses_app_flutter/ui/base_stateless_widget.dart';
 import 'package:household_expenses_app_flutter/ui/tab/tab_page_change_notifier.dart';
 import 'package:provider/provider.dart';
