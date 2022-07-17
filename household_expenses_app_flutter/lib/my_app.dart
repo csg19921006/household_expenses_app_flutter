@@ -13,12 +13,12 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       //设置过渡动画
       defaultTransition: Transition.fade,
+      translations: Messages(),
       //设置默认语言
       locale: Get.deviceLocale,
       // 在配置错误的情况下,使用的语言
       fallbackLocale: Locale('en', 'EN'),
-      //这个是翻译的关键，根据translationsKeys来进行自定义的内容进行翻译
-      translationsKeys: AppTranslation.translation,
+      //根据translationsKeys来进行自定义的内容进行翻译
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
