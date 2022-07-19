@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:household_expenses_app_flutter/domain/view_model/base_viewmodel.dart';
 import 'package:household_expenses_app_flutter/ui/home/home_page.dart';
 import 'package:household_expenses_app_flutter/ui/profile/profile_page.dart';
-import 'base_view_model.dart';
 
 class TabPageViewModel extends BaseViewModel {
   final List<Widget> _pageList = const [

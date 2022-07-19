@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025806225881",
+    "project_id": "householdexpenses-5e1f9",
+    "storage_bucket": "householdexpenses-5e1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025806225881:android:00213ef75e7800c10a09c8",
+        "android_client_info": {
+          "package_name": "com.example.household_expenses_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025806225881-sofk4bh248s6isrgpl1608jop0k2abvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQPERL899w0-Ek1qLBNoSvglk71xfCqzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025806225881-sofk4bh248s6isrgpl1608jop0k2abvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
